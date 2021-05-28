@@ -1,0 +1,5 @@
+datafile gen.dump #LAMMPS data file (.data, LAMMPS dump file, .xyz format
+element 3 C H N
+sfac #Static structure factor information to output
+rdf #Radial distribution function information to output
+xrd #X-ray powder diffraction information to output
